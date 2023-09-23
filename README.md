@@ -1,0 +1,2 @@
+# Real-Time-Vehicle-Tracking-system.
+The Real-Time Vehicle Tracking System is a transportation solution aimed at providing real-time information to users regarding the availability of trucks and their routes. This system leverages advanced technologies like MQTT and other relevant services to gather data, ensuring users have reliable and up-to-date information about the truck transportation system. Developed for use in Himachal Pradesh, this system will revolutionize the efficiency and convenience of transportation.
