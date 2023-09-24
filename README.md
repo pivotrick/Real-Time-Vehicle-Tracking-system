@@ -7,6 +7,11 @@ To develop a smart transportation system, which that aims to provide real-time i
 # <h2>Significance/Novelty of problem</h2>
 For companies to achieve optimum performance and cost-effectiveness, a fleet management system has become a game-changer. The worldwide fleet management marketplace is projected to hit $34 billion by 2025, up from $19.9 billion in 2020, according to marketsandmarkets. Cloud-based fleet management software and Software-as-a-Service (SaaS) are among the primary drivers of this acceleration, which supports the fact.
 
+# <h2>Brief Description of the Solution Approach</h2>
+The solution approach for a fleet management system involves analysing the requirements and 
+designing a software application that addresses the needs of fleet operations. 
+The system utilizes MySQL as the database management system for data storage and integrates MQTT protocol for real-time communication and device integration. Python with libraries like paho-mqtt and HiveMQ is used to implement MQTT clients. HTML, CSS, and JavaScript are employed for front-end development, providing structure, style, and interactivity to the user interface. PHP is used as the server-side scripting language for handling server tasks, interacting with databases, and generating dynamic web content. The Maps Embed API from Google is integrated to embed customized Google Maps, enhancing the system's user interface and providing interactive map functionality. This comprehensive approach ensures real-time tracking, route optimization, reporting, and a userfriendly interface for efficient fleet management.
+
 # <h2>Feautures </h2>
 1. **Real-Time Truck Tracking:** Customers and operators can track the current location of buses in real-time on a digital map.
 2. **Booking:** Customers can book their trucks for transportation.
@@ -25,6 +30,7 @@ managers and drivers.
 9. **Limitations and Future Directions:** Data availability, sample size, or generalizability. 
 Identification of areas for further research, potential enhancements to the system, or additional 
 metrics that could be considered are tough to incorporate.
+10. **Security and Privacy:** The system ensures the security and privacy of fleet data, including user credentials, location, and communication.
 
 
 
