@@ -33,6 +33,12 @@ metrics that could be considered are tough to incorporate.
 10. **Security and Privacy:** The system ensures the security and privacy of fleet data, including user credentials, location, and communication.
 
 # <h2>Team </h2>
-1. [Prarit Agarwal](https://github.com/Tranquil-ou)
+1. [Prarit Agarwal 20104034](https://github.com/Tranquil-ou)
+2. [Yuvraj Chaudhary 20104032](https://github.com/kakran-github)
+3. [Gautam Kumar 20103032](https://github.com/pivotrick)
+4. [Nikita Singhal 20103117](https://github.com/nikita78699)
+5. [Bhavey Mittal 20103028](https://github.com/BhaveyM)
+6. [Ishanya Yadav 9920103089](https://github.com/aynahsi)
+
 
 
